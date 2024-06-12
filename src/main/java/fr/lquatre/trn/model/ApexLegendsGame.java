@@ -7,7 +7,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class ApexLegendsGame {
-    private static final String API_KEY = "0eec4b07-2320-4130-a8a5-be68f8cf168e";
+    private static final String API_KEY = **NOT WORKING ANYMORE**;
 
     public void fetchStats() {
         Scanner scanner = new Scanner(System.in);
